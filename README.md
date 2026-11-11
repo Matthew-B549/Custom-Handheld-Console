@@ -22,6 +22,8 @@ This was my first project in which I made a PCB and I am exceptionally proud wit
 
 * I have not made a 3d printed case for this project. This is largely because of the irregular shape of the components mounted on the PCB. Large capacitors (among other components) poke through where the case would be. Again, the PCB was not designed specifically to work with a 3d printed case. These are all considerations that should be made earlier on in the process before ordering the PCB to ensure that both parts of the equation fit together.
 
+* Even through 2 revisions and many measurements, the footprint for the ESP32 is slightly too small and pins may need to be bent in order to fit the footprint and be soldered in.
+
 * These design flaws heavily impact my experience when using the Console. They also make the Console very fragile and difficult to pass around and share.
 
 
