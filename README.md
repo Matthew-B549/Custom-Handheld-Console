@@ -5,5 +5,8 @@ I have created a helpful pixel editor tool for creating artwork to display on th
 
 
 
-My inspiration:
+**My inspiration**:
 This project was largely inspired by the Nintendo Game Boy.
+
+**Agentic Coding**:
+In this project, I experimented with Agentic coding. I found that the various Agents that I used were able to iterate incredibly quickly to varying levels of results. Individually, many of the games are decently coded and perform well. However, I found that the Agents struggled in creating a unified system and some of the code is messy at times.
