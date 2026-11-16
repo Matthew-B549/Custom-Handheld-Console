@@ -51,4 +51,4 @@ V1 was way to big and had various flaws. Here is *a less flawed* V2:
 
 Notice the usage of tape:
 -----
-<img src="Images/V2_Back" width="700" alt="V2 Back">
+<img src="Images/V2_Back.jpg" width="700" alt="V2 Back">
