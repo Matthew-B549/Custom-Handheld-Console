@@ -29,4 +29,18 @@ This was my first project in which I made a PCB and I am exceptionally proud wit
 
 I have included various pictures of the process and end result below.
 
-![Schematic Image](Images/handheldConsoleV2.png)
+![Early Prototyping](Images/EarlyPrototyping.jpg)
+
+![Speaker Circuit](Images/SpeakerCircuit.jpg)
+
+![V1 Schematic](Images/V1_Schematic.png)
+
+![V1 Soldering](Images/V1_Soldering.jpg)
+
+![V2 Schematic](Images/V2_Schematic.png)
+
+![V2 PCB 3d View](Images/V2_3d.jpg)
+
+![V2 Home Screen](Images/V2_Homescreen.jpg)
+
+![V2 Back](Images/V2_Back.jpg)
