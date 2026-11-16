@@ -29,18 +29,26 @@ This was my first project in which I made a PCB and I am exceptionally proud wit
 
 I have included various pictures of the process and end result below.
 
+Here is some of my earliest prototyping:
+-----
 ![Early Prototyping](Images/EarlyPrototyping.jpg)
 
 ![Speaker Circuit](Images/SpeakerCircuit.jpg)
 
+Then I designed V1:
+-----
 ![V1 Schematic](Images/V1_Schematic.png)
 
 ![V1 Soldering](Images/V1_Soldering.jpg)
 
+V1 was way to big and had various flaws. Here is *a less flawed* V2:
+-----
 ![V2 Schematic](Images/V2_Schematic.png)
 
 ![V2 PCB 3d View](Images/V2_3d.jpg)
 
 ![V2 Home Screen](Images/V2_Homescreen.jpg)
 
+Notice the usage of tape:
+-----
 ![V2 Back](Images/V2_Back.jpg)
