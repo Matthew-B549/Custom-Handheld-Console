@@ -6,7 +6,7 @@ I have created a helpful pixel editor tool for creating artwork to display on th
 
 
 **My inspiration**:
-This project was largely inspired by the Nintendo Game Boy.
+This project was largely inspired by the Nintendo Game Boy. In contrast to the cartridge style, all of the software is installed directly onto the ESP32. The software that I have uploaded includes 10 games (my favorite one being pong), but you are able to code in more of your own. The SD card (visible in the pictures at the bottom) is used to store high scores, but it can be repurposed in the software.
 
 **Agentic Coding**:
 In this project, I experimented with Agentic coding. I found that the various Agents that I used were able to iterate incredibly quickly to varying levels of results. Individually, many of the games are decently coded and perform well. However, I found that the Agents struggled in creating a unified system and some of the code is messy at times.
