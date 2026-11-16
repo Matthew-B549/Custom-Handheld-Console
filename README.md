@@ -31,24 +31,24 @@ I have included various pictures of the process and end result below.
 
 Here is some of my earliest prototyping:
 -----
-![Early Prototyping](Images/EarlyPrototyping.jpg)
+<img src="Images/EarlyPrototyping.jpg" width="700" alt="Early Prototyping">
 
-![Speaker Circuit](Images/SpeakerCircuit.jpg)
+<img src="Images/SpeakerCircuit.jpg" width="700" alt="Speaker Circuit">
 
 Then I designed V1:
 -----
-![V1 Schematic](Images/V1_Schematic.png)
+<img src="Images/V1_Schematic.png" width="700" alt="V1 Schematic">
 
-![V1 Soldering](Images/V1_Soldering.jpg)
+<img src="Images/V1_Soldering.jpg" width="700" alt="V1 Soldering">
 
 V1 was way to big and had various flaws. Here is *a less flawed* V2:
 -----
-![V2 Schematic](Images/V2_Schematic.png)
+<img src="Images/V2_Schematic.png" width="700" alt="V2 Schematic">
 
-![V2 PCB 3d View](Images/V2_3d.jpg)
+<img src="Images/V2_3d.jpg" width="700" alt="V2 PCB 3d View">
 
-![V2 Home Screen](Images/V2_Homescreen.jpg)
+<img src="Images/V2_Homescreen.jpg" width="700" alt="V2 Home Screen">
 
 Notice the usage of tape:
 -----
-![V2 Back](Images/V2_Back.jpg)
+<img src="Images/V2_Back" width="700" alt="V2 Back">
