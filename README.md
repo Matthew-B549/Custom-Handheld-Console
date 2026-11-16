@@ -28,3 +28,5 @@ This was my first project in which I made a PCB and I am exceptionally proud wit
 
 
 I have included various pictures of the process and end result below.
+
+![Schematic Image](Images/handheldConsoleV2.png)
