@@ -14,6 +14,9 @@ In this project, I experimented with Agentic coding. I found that the various Ag
 **What Changed V1 to V2?**
 The primary change from V1 to V2 was in size. I shrunk the PCB from 133mm by 170mm to 100mm by 100mm. (*Note: I have no Idea how I chose the dimensions 133 by 170 originally, but the board went from being comically large to a more standard size*) This dramatic decrease in size led to more intentional routing being necessary. I completely remapped the ESP32 pins from V1 to V2 to optimize and reduce vias and crossing traces. I also focused on signal integrity by placing resistors along high frequency SPI communication lines. Additionally, I routed the speaker signal trace intentionally to try and minimize noise and crosstalk.
 
+**What Changed V2 to V3?**
+The only thing changed from V2 to V3 is the ESP32 footprint. In my first two versions, the PCB footprint was much smaller than my microcontroller's footprint. I had to bend the pins to make it fit in. This is mainly because of errors I made in measuring and using other models I had found online. To ensure that the V3 footprint is correct, I first made a CAD model of my ESP32 in Fusion. I then 3d printed it and made sure it was the exact same size. I then made the footprint with the same specifications from CAD and ensured that the CAD model and the footprint fit together.
+
 
 **My Reflection**
 This was my first project in which I made a PCB and I am exceptionally proud with the results. While there was much improvement from V1 to V2, there are still some issues I have come across when testing and using the Handheld Console. I have outlined some of the issues below:
@@ -22,7 +25,7 @@ This was my first project in which I made a PCB and I am exceptionally proud wit
 
 * I have not made a 3d printed case for this project. This is largely because of the irregular shape of the components mounted on the PCB. Large capacitors (among other components) poke through where the case would be. Again, the PCB was not designed specifically to work with a 3d printed case. These are all considerations that should be made earlier on in the process before ordering the PCB to ensure that both parts of the equation fit together.
 
-* Even through 2 revisions and many measurements, the footprint for the ESP32 is slightly too small and pins may need to be bent in order to fit the footprint and be soldered in.
+* Even through my first 2 revisions and many measurements, the footprint for the ESP32 is slightly too small and pins may need to be bent in order to fit the footprint and be soldered in. ***This is fixed in V3***
 
 * These design flaws heavily impact my experience when using the Console. They also make the Console very fragile and difficult to pass around and share.
 
